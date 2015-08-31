@@ -1,0 +1,7 @@
+#check {
+		position: absolute;
+		border: solid 5px;
+		border-color: #FFFFFF;
+		display: block;
+		padding: 10px 10px 10px 10px;
+	}
